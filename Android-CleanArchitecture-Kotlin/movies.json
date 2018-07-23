@@ -1,122 +1,321 @@
 [
-    {
-        "id": "038001",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg"
-    },
-    {
-        "id": "038002",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038002.jpg"
-    },
-    {
-        "id": "038003",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038003.jpg"
-    },
-    {
-        "id": "038004",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038004.jpg"
-    },
-    {
-        "id": "038005",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038005.jpg"
-    },
-    {
-        "id": "038006",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038006.jpg"
-    },                    
-    {
-        "id": "038007",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038007.jpg"
-    },
-    {
-        "id": "038008",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038008.jpg"
-    },
-    {
-        "id": "038009",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038009.jpg"
-    },
-    {
-        "id": "038010",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038010.jpg"
-    },
-    {
-        "id": "038011",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038011.jpg"
-    },
-    {
-        "id": "038012",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038012.jpg"
-    },  
-    {
-        "id": "038013",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038013.jpg"
-    },
-    {
-        "id": "038014",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038014.jpg"
-    },
-    {
-        "id": "038015",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038015.jpg"
-    },
-    {
-        "id": "038016",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038016.jpg"
-    },
-    {
-        "id": "038017",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038017.jpg"
-    },
-    {
-        "id": "038018",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038018.jpg"
-    },
-    {
-        "id": "038019",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038019.jpg"
-    },
-    {
-        "id": "038020",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038020.jpg"
-    },
-    {
-        "id": "038021",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038021.jpg"
-    },
-    {
-        "id": "038022",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038022.jpg"
-    },
-    {
-        "id": "038023",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038023.jpg"
-    },
-    {
-        "id": "038024",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038024.jpg"
-    },
-    {
-        "id": "038025",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038025.jpg"
-    },
-    {
-        "id": "038026",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038026.jpg"
-    },
-    {
-        "id": "038027",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038027.jpg"
-    },
-    {
-        "id": "038028",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038028.jpg"
-    },
-    {
-        "id": "038029",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038029.jpg"
-    },
-    {
-        "id": "038030",
-        "poster": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038030.jpg"
-    }
+  {
+    "cast": "Sullivan Stapleton, Eva Green, Lena Headey",
+    "director": "Noam Murro",
+    "id": "f67771bd-62fa-4337-97dd-b0873446bcdc",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038001_big.jpg",
+    "summary": "After its victory over Leonidas\u0027 300, the Persian Army under the command of Xerxes marches towards the major Greek city-states. The Democratic city of Athens, first on the path of Xerxes\u0027 army, bases its strength on its fleet, led by admiral Themistocles. Themistocles is forced to an unwilling alliance with the traditional rival of Athens, oligarchic Sparta whose might lies with its superior infantry troops. But Xerxes still reigns supreme in numbers over sea and land.",
+    "title": "300 Rise of an Empire",
+    "trailer": "https://www.youtube.com/watch?v\u003d2zqy21Z29ps",
+    "year": "2014"
+  },
+  {
+    "cast": "Matt Damon, Jodie Foster, Sharlto Copley",
+    "director": "Neill Blomkamp",
+    "id": "55910e66-c44a-4382-96ac-8a0a16c5923a",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038002.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038002_big.jpg",
+    "summary": "In the year 2154, two classes of people exist: the very wealthy, who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Delacourt, a government official, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn\u0027t stop the people of Earth from trying to get in by any means they can. When unlucky Max is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life but could bring equality to these polarized worlds.",
+    "title": "Elysium",
+    "trailer": "https://www.youtube.com/watch?v\u003doIBtePb-dGY",
+    "year": "2013"
+  },
+  {
+    "cast": "Henry Cavill, Amy Adams, Michael Shannon",
+    "director": "Zack Snyder",
+    "id": "5051d553-30dd-49d7-a282-7e2dd00e1fe0",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038003.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038003_big.jpg",
+    "summary": "Kal-El, son of Jor-El and Lara, is sent to Earth after his home planet Krypton leads to a complete incineration. Now taking the name Clark Kent, he then discovers his true persona when he is guided to become Superman: A hero committed to protect Earth\u0027s fate and the harm that threatens it. However, General Zod, a citizen of Krypton and its military leader looks at Earth\u0027s fate differently and decides to use it with a sacrifice for all humans. Superman, with the help of present military and news reporter Lois Lane makes an alliance together to stop Zod from obliterating human existence.",
+    "title": "Man of Steel",
+    "trailer": "https://www.youtube.com/watch?v\u003dT6DJcgm3wNY",
+    "year": "2013"
+  },
+  {
+    "cast": "Chris Hemsworth, Natalie Portman, Tom Hiddleston",
+    "director": "Alan Taylor",
+    "id": "c6cd9b66-14b4-4cbc-a7d8-b8ddfb20c2bd",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038004.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038004_big.jpg",
+    "summary": "A year after Loki\u0027s devastating alien attack on New York, the Mighty Thor along with his friends Lady Sif and the Warriors Three fight to save the Nine Realms from deadly threats. When Thor\u0027s girlfriend Jane Foster discovers a fluid like weapon called the Aether, she unknowingly awakens the evil Malekith and his Dark Elf army. With this, Asgard may be facing it\u0027s darkest hour. Thor forms an uneasy alliance with his nemesis Loki to save Jane, stop Malekith and save the Nine Realms from total chaos and darkness.",
+    "title": "Thor: The Dark World",
+    "trailer": "https://www.youtube.com/watch?v\u003dnpvJ9FTgZbM",
+    "year": "2013"
+  },
+  {
+    "cast": "Hugh Jackman, Will Yun Lee, Tao Okamoto",
+    "director": "James Mangold",
+    "id": "874410d7-25eb-4e16-993f-cb8c403ca536",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038005.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038005_big.jpg",
+    "summary": "Logan has been living a desolate life following the death of Jean Grey at his hands. A Japanese girl goes to see him and tells him that a man he knew in World War 2 and saved his life is now dying and wants to see him. When he sees him, the man offers to make Logan mortal but Logan refuses. Later the man dies. At his funeral, some men try to grab the man\u0027s grand daughter. Logan saves her but when they shoot him Logan doesn\u0027t heal. They continue to go to a place where the girl feels safe. But men keep on finding them and the doctor who was treating the man, asks a Samurai who pledged to protect the girl, to bring her Logan. Logan still continues to deal with what happened to Jean.",
+    "title": "The Wolverine",
+    "trailer": "https://www.youtube.com/watch?v\u003dWEbzZP-_Ssc",
+    "year": "2013"
+  },
+  {
+    "cast": "Channing Tatum, Jamie Foxx, Maggie Gyllenhaal ",
+    "director": "Roland Emmerich",
+    "id": "cb4ea3da-9112-4fa1-8154-5b41764b4a65",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038006.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038006_big.jpg",
+    "summary": "The North-American President James Sawyer proposes a global peace plan frustrating the arms industry. Meanwhile Capitol security agent John Cale had made an application for the secret service to protect the president and travels for an interview with Agent Finnerty in Washington with his eleven year-old daughter Emily. Cale is not accepted and he goes with Emily on a tour in the White House. Out of the blue, the White House is invaded and overtaken by a terrorist group led by Stenz, and Cale fights against the paramilitary group to save his daughter and the president while disclosing high treason and coup d\u0027état sponsored by the arms industry.",
+    "title": "White House Down",
+    "trailer": "https://www.youtube.com/watch?v\u003dhVdXl-_DvZk",
+    "year": "2013"
+  },
+  {
+    "cast": "Katie Aselton, Lake Bell, Kate Bosworth",
+    "director": "Katie Aselton",
+    "id": "9ce1c493-a16a-49a0-9004-d4c1f43758d7",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038007.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038007_big.jpg",
+    "summary": "Sarah travels with her friend Lou to spend the weekend camping in the remote Black Rock Island that was part of their childhood. When they arrive to get their motor boat, Lou sees Abby waiting for Sarah and they decide to give up traveling to the island. Lou and Abby were friends in the past but after an incident with Abby\u0027s boyfriends, they have been estranged for many years and do not talk to each other. However, Sarah convinces them to travel with her to Black Rock. When they are resolving their issues, they meet their former schoolmate Henry that is hunting with his friends from the army Derek and Alex that worship Henry and Abby invites them to have dinner and drink with them on the beach. Abby gets drunk and she flirts with Henry and he makes a move on her. There is a tragic accident with Henry and his friends decide to revenge him.",
+    "title": "Black Rock",
+    "trailer": "https://www.youtube.com/watch?v\u003d8u756yHZ_Ww",
+    "year": "2012"
+  },
+  {
+    "cast": "Chris Pine, Zachary Quinto, Zoe Saldana",
+    "director": "J.J. Abrams",
+    "id": "793db799-62ad-4acc-a314-0604824c2f99",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038008.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038008_big.jpg",
+    "summary": "The latest mission of the USS Enterprise crew takes them into deep space to rescue an endangered species from an active volcano. However, once again Captain Kirk\u0027s reckless behavior compromises the mission and nearly gets him booted from Starfleet. Turning back to his mentor Admiral Pike, Kirk is demoted to an academy cadet and has to start over. However, when a ruthless warlord attacks Starfleet and shoots Admiral Pike in the process, Kirk takes command and takes the Enterprise deep into the neutral zone and the Klingon homeworld. Unknown to the crew, a Starfleet renegade is manipulating the Federation and the Klingons into a possible war. Kirk, Spock and the rest of the crew must stop the war before all hell breaks loose. And what awaits the crew of the USS Enterprise on their forthcoming five-year mission?",
+    "title": "Star Trek Into Darkness",
+    "trailer": "https://www.youtube.com/watch?v\u003dQAEkuVgt6Aw",
+    "year": "2013"
+  },
+  {
+    "cast": "Johnny Depp, Armie Hammer, William Fichtner",
+    "director": "Gore Verbinski",
+    "id": "ba6f16ed-440e-49ae-a19f-41612f04ed9d",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038009.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038009_big.jpg",
+    "summary": "In 1933, in San Francisco, a boy visits the Wild West in a sideshow and meets an elderly Tonto in a chamber and the Comanche tells the story of The Lone Ranger to him. In 1869, the idealistic prosecutor John Reid returns by train to his hometown Colby. In the same train, it is traveling the criminal Butch Cavendish that will be judged for his crimes and hanged in the town due to a request of Latham Cole, who represents the railroad company. However, Butch escapes and John rides with his brother Dan Reid and six other Texas Rangers to capture him. However, the rangers are ambushed and killed by the notorious outlaw and his gang and only John survives. He teams up with Tonto to bring Butch Cavendish to justice in a dangerous journey of discoveries.",
+    "title": "300 Rise of an Empire",
+    "trailer": "https://www.youtube.com/watch?v\u003dJjFsNSoDZK8",
+    "year": "2013"
+  },
+  {
+    "cast": "Brad Pitt, Mireille Enos, Daniella Kertesz",
+    "director": "Marc Forster",
+    "id": "4800eb5a-49d7-4f4e-83e4-b9a6193f5036",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038010.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038010_big.jpg",
+    "summary": "When former U.N. investigator Gerry Lane and his family get stuck in urban gridlock, he senses that it\u0027s no ordinary traffic jam. His suspicions are confirmed when, suddenly, the city erupts into chaos. A lethal virus, spread through a single bite, is turning healthy people into something vicious, unthinking and feral. As the pandemic threatens to consume humanity, Gerry leads a worldwide search to find the source of the infection and, with luck, a halt to it\u0027s spread.",
+    "title": "World War Z",
+    "trailer": "https://www.youtube.com/watch?v\u003dMd6Dvxdr0AQ",
+    "year": "2013"
+  },
+  {
+    "cast": "Chris Pine, Zachary Quinto, Simon Pegg",
+    "director": "J.J. Abrams",
+    "id": "5cde9740-d2a5-4589-8502-14f394d53257",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038011.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038011_big.jpg",
+    "summary": "On the day of James Kirk\u0027s birth, his father dies on his damaged starship in a last stand against a Romulan mining vessel looking for Ambassador Spock, who in this time, has grown on Vulcan disdained by his neighbors for his half-human heritage. 25 years later, James T. Kirk has grown into a young rebellious troublemaker. Challenged by Captain Christopher Pike to realize his potential in Starfleet, he comes to annoy academy instructors like Commander Spock. Suddenly, there is an emergency on Vulcan and the newly-commissioned USS Enterprise is crewed with promising cadets like Nyota Uhura, Hikaru Sulu, Pavel Chekov and even Kirk himself, thanks to Leonard McCoy\u0027s medical trickery. Together, this crew will have an adventure in the final frontier where the old legend is altered forever as a new version of the legend begins.",
+    "title": "Star Trek",
+    "trailer": "https://www.youtube.com/watch?v\u003dpKFUZ10Wmbw",
+    "year": "2009"
+  },
+  {
+    "cast": "Michael Biehn, Jeannine Kaspar, Electra Avellan",
+    "director": "Patricio Valladares",
+    "id": "b5a17c67-ba85-42e5-9f97-372f5647f1aa",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038012.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038012_big.jpg",
+    "summary": "Hidden in the Woods tells the story of two sisters who have been raised in isolation, subjected to the torment of their abusive, drug dealing father. When they finally decide to report him to the police, he kills the two officers and is put in jail. But things go from bad to worse when the girls must answer to their Uncle Costello, a psychotic drug kingpin, who shows up looking for his missing merchandise which is hidden in the woods.",
+    "title": "Hidden in the Woods",
+    "trailer": "https://www.youtube.com/watch?v\u003dXSvatfT5fO4",
+    "year": "2014"
+  },
+  {
+    "cast": "Johnny Depp, Geoffrey Rush, Javier Bardem",
+    "director": "Joachim Rønning, Espen Sandberg",
+    "id": "d8d6c83f-e593-4751-9996-b241c6e47b3a",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038013.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038013_big.jpg",
+    "summary": "Captain Salazar, a deadly ghost escapes the Devil\u0027s triangle with his crew and is taking over the seas in search of his arch-rival and author of all his pain, Jack Sparrow. In the meantime, Jack is approached by a boy who needs to locate the Trident of Poseidon, something he believes only Sparrow can help him find. Carina Smyth an astronomer and horologist joins the team to help them find something she believes her father had always wanted her to find. Jack\u0027s only hope is to find the mythical Trident of Poseidon, who\u0027s master gets control of all the seas, or so it\u0027s said.",
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "trailer": "https://www.youtube.com/watch?v\u003dAk9DOPQ0Mhg",
+    "year": "2017"
+  },
+  {
+    "cast": "Jennifer Lawrence, Robert De Niro, Bradley Cooper",
+    "director": "David O. Russell",
+    "id": "f4d95e9c-0f06-49fb-b99f-a2d50fa1ffdb",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038014.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038014_big.jpg",
+    "summary": "Joy has always been fascinated by creating things, This pursuit was always supported emotionally by her maternal grandmother, Mimi. Joy feels that lack of practical support has led to others making fortunes on ideas she came up with years ago but could not act upon manufacturing. Despite being broke, Joy is the person in her extended family to whom everyone has always turned, in the process forgoing her own life, including not having attended college to help see her parents through their divorce. She works in an unsatisfying job as an Eastern Airlines ticket clerk; and lives with her mother Terry who spends all day in bed watching soap operas; her ex-husband Tony, a less than successful aspiring Latino Tom Jones wannabe; and their two children. Added to this mix is her father Rudy, the owner of a failing heavy-duty garage, which is managed by Joy\u0027s older half-sister Peggy, with whom she has somewhat of a strained relationship, and for which Joy does the books. Sharon, Rudy\u0027s latest girlfriend who has just dumped him, drops him off on Joy\u0027s doorstep, making Joy\u0027s home life even more complicated as Rudy does not get along with either Terry or Tony. Joy begins to feel buried by her life, in the process her childhood dream of making things seemingly getting farther and farther away. As such, Joy decides to make some changes in her life, and expects the unquestioning practical support of her family. Those changes include manufacturing a new product of her design; what she chooses this time around being a self-wringing mop. That support also includes being able to pitch the idea to Rudy\u0027s current wealthy girlfriend, Trudy. Even if she does get to the manufacturing stage, Joy will have to battle the narrow minds of business executives in marketing her product, that is unless she can find a way to get into the homes of the American public in one fell swoop. But nothing is a done deal until the consumer forks out his/her hard earned money for the product and all the legal issues are dealt with. Joy has to decide if she will \u0027pick up the gun\u0027 as Trudy asked in their initial investment meeting in dealing with an especially troublesome legal issue.",
+    "title": "Joy",
+    "trailer": "https://www.youtube.com/watch?v\u003d2zqy21Z29ps",
+    "year": "2015"
+  },
+  {
+    "cast": "Zoey Deutch, Halston Sage, Cynthy Wu",
+    "director": "Ry Russo-Young",
+    "id": "6ff89f2b-a25d-416b-abd7-0984938d5595",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038015.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038015_big.jpg",
+    "summary": "What if you had only one day to change absolutely everything? Samantha Kingston has it all: the perfect friends, the perfect guy, and a seemingly perfect future. Then, everything changes. After one fateful night, Sam wakes up with no future at all. Trapped reliving the same day over and over she begins to question just how perfect her life really was. And as she begins to untangle the mystery of a life suddenly derailed, she must also unwind the secrets of the people closest to her, and discover the power of a single day to make a difference, not just in her own life, but in the lives of those around her - before she runs out of time for good.",
+    "title": "Before I Fall",
+    "trailer": "https://www.youtube.com/watch?v\u003dq3Zyy4ZXegE",
+    "year": "2017"
+  },
+  {
+    "cast": "Gal Gadot, Chris Pine, Robin Wright ",
+    "director": "Patty Jenkins",
+    "id": "2a52b802-be90-4124-aa17-0044eecaa5c2",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038016.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038016_big.jpg",
+    "summary": "When army pilot Steve Trevor crashes on the warriors\u0027 secluded island paradise, disrupting the fictitious all-female sanctuary of Themyscira created by the Gods of Olympus, Princess Diana of the immortal Amazons aids for his rescue and wins the decisive right to escort him home, heading to an early 20th Century London to stop the war she believes is influenced by the God Ares. Leaving behind the only life she\u0027s ever known and entering the cynical world of men for the first time, torn between a mission to promote peace and her own warrior upbringing, as a \u0027Wonder Woman,\u0027 Diana must fight evil in a \u0027war to end all wars,\u0027 while hoping to unlock the potential of a humanity she doesn\u0027t always understand.",
+    "title": "Wonder Woman",
+    "trailer": "https://www.youtube.com/watch?v\u003dVSB4wGIdDwo",
+    "year": "2017"
+  },
+  {
+    "cast": "Kate Beckinsale, Michael Ealy, India Eisley",
+    "director": "Mans Marlind, Björn Stein",
+    "id": "373100d0-cdd5-49c6-95c8-318bd9256390",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038017.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038017_big.jpg",
+    "summary": "Mankind discover the existence of the Vampire and Lycan species and they begin a war to annihilate the races. When Selene meets with Michael in the harbor, they are hit by a grenade and Selene passes out. Twelve years later, Selene awakes from a cryogenic sleep in the Antigen laboratory and meets the Vampire David. She learns that she had been the subject of the scientist Dr. Jacob Lane and the Vampire and Lycan species have been practically eradicated from Earth. But Selene is still connected to Michael and has visions that she believes that belongs to Michael\u0027s sight. However she has a surprise and finds that she has a powerful daughter named Eve that has been raised in the laboratory. Now Selene and David have to protect Eve against the Lycans that intend to use her to inoculate their species against silver.",
+    "title": "Underworld Awakening",
+    "trailer": "https://www.youtube.com/watch?v\u003dtUcrbUCWKQc",
+    "year": "2012"
+  },
+  {
+    "cast": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams",
+    "director": "Scott Derrickson",
+    "id": "b58004c1-8a6e-421f-8a45-e2d5feed3b4f",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038018.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038018_big.jpg",
+    "summary": "Stephen Strange is a surgeon with a God complex. When he gets in an accident and his hands are injured, he feels as if his life is over. His therapist tells him of a guy he knew who couldn\u0027t walk but is now walking again. The therapist tells Strange where he can find the man and he tells Strange he did it with his mind, he went to a place called Kamar-Taj and there he was taught how to use his mind to heal himself. Strange goes there to seek the ones who taught him. He finds them and learns that they use mystic arts and they take Strange in, reluctantly and teach him. Strange learns that a former member is planning something and tries to stop him. But he also learns that his teacher is keeping a secret too.",
+    "title": "Doctor Strange",
+    "trailer": "https://www.youtube.com/watch?v\u003dHSzx-zryEgM",
+    "year": "2016"
+  },
+  {
+    "cast": "Saoirse Ronan, Cate Blanchett, Eric Bana",
+    "director": "Joe Wright",
+    "id": "ade93452-0ce1-43aa-b31c-c9d28a188aca",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038019.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038019_big.jpg",
+    "summary": "Hanna (Ronan) is a teenage girl. Uniquely, she has the strength, the stamina, and the skills of a soldier; these come from being raised by her father (Bana), an ex-CIA man, in the wilds of Finland. Living a life unlike any other teenager, her upbringing and training have been one and the same, all geared to making her the perfect assassin. The turning point in her adolescence is a sharp one; sent into the world by her father on a mission, Hanna journeys stealthily across Europe while eluding agents dispatched after her by a ruthless intelligence operative with secrets of her own (Blanchett). As she nears her ultimate target, Hanna faces startling revelations about her existence and unexpected questions about her humanity.",
+    "title": "Hanna",
+    "trailer": "https://www.youtube.com/watch?v\u003du73CLdHpbNk",
+    "year": "2011"
+  },
+  {
+    "cast": "Megan Fox, Will Arnett, Tyler Perry",
+    "director": "Dave Green",
+    "id": "ce0fd91a-6a7a-4ed1-bc0d-5c103334ac30",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038020.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038020_big.jpg",
+    "summary": "The Turtles continue to live in the shadows and no one knows they were the ones who took down Shredder. And Vernon is the one everyone thinks is the one who took Shredder down. April O\u0027Neill does some snooping and learns a scientist named, Baxter Stockman is working for Shredder. He plans to break him out while he\u0027s being transported. April tells the turtles who try to stop it but can\u0027t. Stockman tries to teleport Shredder but he some how ends up in another dimension and meets a warlord named Krang who instructs Shredder to assemble a teleportation device he sent to Earth a long time ago. He gives Shredder some mutagen which he uses to transform two criminals who were also in the transport with him, Rock Steady and Bebop into mutants. And they set out to find the device. April saw the transformation while investigating Stockman, She would take the mutagen and she would be chased by Shredder\u0027s minions, the Foot Clan. He is saved by a man named Casey Jones who was the one who transporting Shredder. The Turtles show up and they try to work together. In the melee the mutagen ends up with the police. Knowing Shredder will try and get it back, April tries to get it first she asks Vern to help. Eventually she and Casey are arrested. The Turtles get the mutagen and Donatello analyzes it learns it could make them human, which he tells Leonardo who tells him to forget it and not to tell the others. But Michelangelo tells Raphael who feels that Leonardo doesn\u0027t respect them.",
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "trailer": "https://www.youtube.com/watch?v\u003d3CKgLNGfdSM",
+    "year": "2016"
+  },
+  {
+    "cast": "Saoirse Ronan, Max Irons, Jake Abel",
+    "director": "Andrew Niccol",
+    "id": "e7c1095a-fe3b-46c9-9f86-847122ad1efb",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038022.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038022_big.jpg",
+    "summary": "A race of non-corporeal, parasitic aliens who go from planet to planet looking for hosts have come to Earth and basically taken over the human race. It\u0027s believed that, once inside a body, all memories of the host human are gone. Some few free humans remain hidden from them, forming a resistance group. When an alien Seeker captures a girl named Melanie and puts a Wanderer in her body, she hopes to find out where the remaining humans are gathered, but Melanie, a strong fighter able to converse with the alien in her commandeered body, convinces the Wanderer to say nothing. Disappointed by the lack of progress (though suspecting an empathy for the human), the Seeker informs the Wanderer that she\u0027ll be removed and placed in a new host while she herself will enter Melanie. With human lives at risk, Melanie convinces Wanderer to run away and hide out with the humans, but finding them doesn\u0027t mean they\u0027ll allow an alien presence among them. Jared (Melanie\u0027s boyfriend) wants her dead, but Jeb (Melanie\u0027s uncle) wants to wait, and Ian, tasked with guarding her, finds himself siding with Jeb. As Ian begins to fall for Melanie, a strange love triangle develops, with Ian wanting Wanderer (inhabiting Melanie\u0027s body), Jared wanting Melanie (imprisoned inside her own body), and no one knowing any way to separate the two without killing both.",
+    "title": "The Host",
+    "trailer": "https://www.youtube.com/watch?v\u003duNeCnKKHGE4",
+    "year": "2013"
+  },
+  {
+    "cast": "Jason Momoa, Ron Perlman, Rose McGowan",
+    "director": "Marcus Nispel",
+    "id": "4aa35a0a-36c9-4c35-89c3-b28715559ce5",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038023.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038023_big.jpg",
+    "summary": "Many years ago, sorcerers crafted the Mask of Acheron and dark forces of Acheron conquered the world. However, the barbarians vanquished Acheron warriors and broke the Mask into pieces and divided among the tribes. The barbarian Cimmerian village of chief Corin is attacked by the evil warlord Khalar Zym that wants the last piece of bone of the Mask of Acheron to resurrect his wife. When his witch daughter Marique finds the hidden piece, he slaughters the villagers and the Corin\u0027s son Conan is the only survivor. Conan swears revenge against Khalar Zym. Years later, the warrior Conan is a pirate and he decides to release slaves from a field. When he is celebrating in a tavern with his friends, he sees a thief being chased by a guard and Conan recognizes him as Lucius, the Khalar Zym\u0027s soldier that he cut the nose out. Conan let the guards capture him and once in the prison, he forces Lucius to tell him where Khalar Zym is. Meanwhile Khalar Zym attacks a monastery where Marique believes that a pure-blood descent of Acheron lives. But the monk sent the descent Tamara back to her homeland. She is chased by Khalar Zym\u0027s soldiers, but Conan saves her. Now Conan intends to use Tamara to reach the evil Khalar Zym. Will he succeed in his intent?",
+    "title": "Conan the Barbarian",
+    "trailer": "https://www.youtube.com/watch?v\u003dP3L7tRQzDEQ",
+    "year": "2011"
+  },
+  {
+    "cast": "Lily Collins, Jamie Campbell Bower, Robert Sheehan",
+    "director": "Harald Zwart",
+    "id": "e9255261-fa6f-4c93-b0fc-575996801c6d",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038024.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038024_big.jpg",
+    "summary": "Set in contemporary New York City, a seemingly ordinary teenager, Clary Fray, discovers she is the descendant of a line of Shadowhunters, a secret cadre of young half-angel warriors locked in an ancient battle to protect our world from demons. After the disappearance of her mother, Clary must join forces with a group of Shadow Hunters, who introduce her to a dangerous alternate New York called the Shadow World, filled with demons, warlocks, vampires, werewolves and other deadly creatures.",
+    "title": "The Mortal Instruments: City of Bones",
+    "trailer": "https://www.youtube.com/watch?v\u003dGHlwRsl2uFk",
+    "year": "2013"
+  },
+  {
+    "cast": "Jessica Lowndes, Joe Anderson, Lin Shaye",
+    "director": "Darren Lynn Bousman",
+    "id": "92b7a55f-149a-44b0-bf7e-33261ba0fa26",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038025.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038025_big.jpg",
+    "summary": "An investigative reporter works to solve the mystery behind a mysterious man who has been buying houses where tragedies have occurred. Set in a world where it always feels like night, even in daylight hours, real estate reporter Julia Talben\u0027s life is turned upside down when her family is brutally murdered. It is believed to be an open and close case, but Julia quickly realizes there is much more to this story when she returns to the crime scene to find the murder room deconstructed and physically removed from her sister\u0027s home. This ignites an investigative pursuit that eventually leads her and ex-lover Detective Declan Grady to the town of New English where they find the enigmatic Jebediah Crone and the Abattoir - a monstrous house stitched together with unending rooms of death and the damned. Julia comes to realize that her sister\u0027s soul is trapped inside, but the Abattoir isn\u0027t just a house - it\u0027s a door to something more evil than anyone could have ever imagined. Julia and Grady are ultimately faced with the question: How do you build a haunted house? One room at a time.",
+    "title": "Abattoir",
+    "trailer": "https://www.youtube.com/watch?v\u003ddUI5tBtfgCk",
+    "year": "2016"
+  },
+  {
+    "cast": "Keanu Reeves, Lorenza Izzo, Ana de Armas",
+    "director": "Eli Roth",
+    "id": "e688703b-ac46-4a46-84e4-f2b47acce461",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038026.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038026_big.jpg",
+    "summary": "When a devoted husband and father is left home alone for the weekend, two stranded young women unexpectedly knock on his door for help. What starts out as a kind gesture results in a dangerous seduction and a deadly game of cat and mouse. A sexy new thriller from director Eli Roth and written for the screen by Eli Roth \u0026 Nicolás López \u0026 Guillermo Amoedo and story by Anthony Overman and Michael Ronald, KNOCK KNOCK stars Keanu Reeves as the family man who falls into temptation and Lorenza Izzo and Ana de Armas as the seductresses who wreak havoc upon his life, turning a married man\u0027s dark fantasy into his worst nightmare. KNOCK KNOCK will be released by Lionsgate Premiere in theaters and On Demand on October 9th.",
+    "title": "Knock Knock",
+    "trailer": "https://www.youtube.com/watch?v\u003dti6S3NZ5mKI",
+    "year": "2016"
+  },
+  {
+    "cast": "Neel Sethi, Bill Murray, Ben Kingsley",
+    "director": "Jon Favreau",
+    "id": "058edb39-f682-41f3-8d74-86a42d75a916",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038027.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038027_big.jpg",
+    "summary": "The boy Mowgli is raised in the jungle by the female wolf Raksha with her cubs in the pack led by Akela. The panther Bagheera saved Mowgli when he was a baby and delivered him to Raksha. During the drought, the animals celebrate truce to drink water around the Peace Rock together, but the cruel tiger Shere Khan sees Mowgli and promises to kill him when the water return. Bagheera decides to guide Mowgli to a village on the outskirts of the woods, but they are attacked by Shere Khan during their journey. Mowgli flees but the anaconda Kaa attacks him; however the bear Baloo saves him and they become friends. But Shere Khan wants to kill Mowgli and no animal is capable to stop him. What will happen to Mowgli?",
+    "title": "The Jungle Book",
+    "trailer": "https://www.youtube.com/watch?v\u003d5mkm22yO-bs",
+    "year": "2016"
+  },
+  {
+    "cast": "Jason Patric, Louisa Krause, Mark Margolis",
+    "director": "Eytan Rockaway",
+    "id": "a4524f5f-2cb7-401e-bb9b-0f65e6f683b3",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038028.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038028_big.jpg",
+    "summary": "Take a terrifying plunge into the warped mind of a disturbed young woman. Desperate to get her life back on track, the unstable Streak takes a job as a security guard, working the graveyard shift at a once upscale, now abandoned apartment complex. But on her first night on duty, she discovers a horrifying presence lurking deep within the bowels of the decaying building. With her nerves already on edge, Streak must confront demons both real and imagined as she struggles to keep a grip on her sanity.",
+    "title": "The Abandoned",
+    "trailer": "https://www.youtube.com/watch?v\u003dmdlpQe4Jsa8",
+    "year": "2015"
+  },
+  {
+    "cast": "Jennifer Lawrence, Chris Pratt, Michael Sheen",
+    "director": "Morten Tyldum",
+    "id": "8c9943c1-d8d4-4eb8-834e-c2c3bacbe259",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038029.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038029_big.jpg",
+    "summary": "A company offers people the opportunity to leave the Earth and live on a new colony called Homestead 2. They are being transported on a space vessel called the Avalon. The journey takes 120 years so the travelers and crew are kept in hibernation chambers while the ship flies on its own and are to be awaken just before they arrive. When one passenger -Jim Preston - is awoken, he goes around the ship he discovers he\u0027s the only one awake, having been woken 90 years early. He tries to reenter his hibernation pod but can\u0027t, and spends the next year by himself. He looks at the videos of the other passengers and one, Aurora Lane, intrigues him. He then has to decide if he should wake her up. Eventually he does and they try to make the best of their time together. But then they realise; something must\u0027ve happened to the ship for it to awaken him, and they set out to find out what it is.",
+    "title": "Passengers",
+    "trailer": "https://www.youtube.com/watch?v\u003d7BWWWQzTpNU",
+    "year": "2016"
+  },
+  {
+    "cast": "Paul Giamatti, George Clooney, Philip Seymour Hoffman",
+    "director": "George Clooney",
+    "id": "21f152c5-0ac6-4953-a3fa-807d3c10234b",
+    "poster": "https://raw.githubusercontent.com/tommybuonomo/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038030.jpg",
+    "posterHd": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture-Kotlin/posters/038030_big.jpg",
+    "summary": "The Democratic Party presidential primary process is currently in Ohio, where two candidates are realistically still in the running as the ultimate party nominee for president: Pennsylvanian Governor, Mike Morris, and Arkansas senator, Ted Pullman. Based on what is happening on the Republican side, the Democrats are likely to win the White House, and whoever wins the Ohio primary will likely be the Democratic candidate. Under campaign manager Paul Zara, thirty year old Stephen Meyers is the idealistic press secretary for the Morris campaign. Although Stephen is a political veteran, he has never felt more passionately about a candidate than Morris, who outwardly aspires to a campaign that deals with his policies reflecting his ideals as opposed to back room politics. Stephen takes a calculated risk, one that does not pay off as his actions are leaked to reporter Ida Horowicz, who had been friendly to the campaign up to this point. Ida gives Stephen the opportunity to confirm or deny the accusations before she goes to print, the story which would ruin his standing within the campaign. Stephen also begins a casual sexual relationship with twenty year old intern Molly Stearns, who is well connected herself within the party as the daughter of Jack Stearns, the Chair of the Democratic National Committee. Through Molly, Stephen inadvertently comes into knowledge of some scandalous information about Morris. Stephen has to decide how all these revelations affect his own idealistic attitudes of working under Morris and Zara, and if Morris winning the White House is still the most important goal, especially at the risk of his own professional future within the party and possibly within government.",
+    "title": "The Ides of March",
+    "trailer": "https://www.youtube.com/watch?v\u003dy494hUO-aw8",
+    "year": "2011"
+  }
 ]
